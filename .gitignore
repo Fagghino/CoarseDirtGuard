@@ -33,3 +33,6 @@ Thumbs.db
 
 # Documentation files (keeping the summary)
 infi.txt
+
+# .bak files
+*.bak
